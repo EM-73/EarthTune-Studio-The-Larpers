@@ -4,6 +4,8 @@
 
 **EarthTune Studio** is an interactive 3D Night Observatory and NASA Earth Information Center (EIC) sonification workbench built for the **NASA Space Apps Challenge — The Earth Information Jukebox**. It translates 46 years of NASA surface temperature anomalies (`1980–2025`) into deterministic, inspectable sound and synchronized 3D holographic visuals.
 
+> 🌐 **Live Website:** [EarthTune Studio — NASA Earth Information Sonification](https://earthtune-ph.vercel.app/?fbclid=IwY2xjawVl8cNleHRuA2FlbQIxMABwZG9mAWJyaWQRMWZySHFXclBUb2cyQnBnUWlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfQPm5_VIopU7_brruUXvj_OcOcBTWDiBOx-ppolaXPXlO3HHxxMQMsg3mdec_aem_mKnzjbHKzWUqeSvP-IG_6w)
+
 ---
 
 ## Quick Start (Local Development)
